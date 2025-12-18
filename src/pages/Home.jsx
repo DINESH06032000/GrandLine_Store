@@ -116,7 +116,7 @@ const Home = () => {
           {/* Decorative Images */}
           <img src="https://png.pngtree.com/png-vector/20240708/ourmid/pngtree-fresh-vegetables-with-wicker-basket-png-image_13008114.png" className="deco-img box1-main-img" alt="Veg Basket" />
           <img src="https://static.vecteezy.com/system/resources/previews/015/100/064/non_2x/mixed-fruits-in-wicker-bowl-free-png.png" className="deco-img box1-top-left" alt="Fruit Bowl" />
-          <img src="./visualhunter.png" className="deco-img box1-bottom-left" alt="Leaf" />
+          <img src="visualhunter.png" className="deco-img box1-bottom-left" alt="Leaf" />
         </div>
 
         {/* Top Right Box */}

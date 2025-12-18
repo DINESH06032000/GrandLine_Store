@@ -268,23 +268,23 @@ const Nav = () => {
                         <div className="dropdown pointer">
                             <div className="dropdown-grid">
                                 <Link className="dropdown-card" to="/products?category=Snacks" onClick={closeSearch}>
-                                    <img src="/GrandLine/cashew.png" alt="Snack" />
+                                    <img src="cashew.png" alt="Snack" />
                                     <div className="title">SNACK & SPICE</div>
                                 </Link>
                                 <Link className="dropdown-card" to="/products?category=Juice" onClick={closeSearch} >
-                                    <img src="/GrandLine/drink.png" alt="Drink" />
+                                    <img src="drink.png" alt="Drink" />
                                     <div className="title">JUICE & DRINKS</div>
                                 </Link>
                                 <Link className="dropdown-card" to="/products?category=Seafood" onClick={closeSearch}>
-                                    <img src="/GrandLine/fish.png" alt="Fish" />
+                                    <img src="fish.png" alt="Fish" />
                                     <div className="title">SEAFOOD</div>
                                 </Link>
                                 <Link className="dropdown-card" to="/products?category=Bakery" onClick={closeSearch}>
-                                    <img src="/GrandLine/fast-food.png" alt="Fast Food" />
+                                    <img src="fast-food.png" alt="Fast Food" />
                                     <div className="title">FAST FOOD</div>
                                 </Link>
                                 <Link className="dropdown-card" to="/products?category=Dairy" onClick={closeSearch}>
-                                    <img src="/GrandLine/eggs.png" alt="Eggs" />
+                                    <img src="eggs.png" alt="Eggs" />
                                     <div className="title">EGGS</div>
                                 </Link>
                                 <Link className="dropdown-card more-card" to="/categories" onClick={closeSearch}>

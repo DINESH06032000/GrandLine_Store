@@ -62,7 +62,7 @@ const Cart = () => {
                 <div className="cart-items">
                     {groupedItems.length === 0 ? (
                         <div className="empty-cart">
-                            <img src="/GrandLine/cat.svg" alt="Empty Cart" width="96" height="96" />
+                            <img src="cat.svg" alt="Empty Cart" width="96" height="96" />
                             <h2>Your cart is empty</h2>
                             <p>Looks like you haven't added anything yet.</p>
                             <Link to="/" className="checkout-btn" style={{ width: 'auto', display: 'inline-flex' }}>Start Shopping</Link>
