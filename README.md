@@ -1,5 +1,7 @@
-# 🏴‍☠️ GrandLine Store – E-Commerce Website
+
 <p align="center">
+  <h3>🏴‍☠️ GrandLine Store – E-Commerce Website</h3>
+  <hr>
   ⚓ A One Piece–Inspired E-Commerce Name --- GrandLine ⚓
 </p>
 
@@ -27,15 +29,7 @@ Inspired by the adventure of the Grand Line, this platform blends anime-style UI
 ## 🖼️ Project Screenshots
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Home+Page" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Product+Page" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Checkout+Page" width="80%" />
+  <img src="https://github.com/DINESH06032000/GrandLine_store/blob/main/public/banner.png" width="80%" />
 </p>
 
 ---
@@ -54,4 +48,5 @@ npm install
 
 # Start the application
 npm start
+
 
