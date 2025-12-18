@@ -24,7 +24,7 @@ const HelpCenter = () => {
                 }
 
                 .help-hero {
-                    background: url('/GrandLine/premium-bg.jpg') no-repeat center center;
+                    background: url('premium-bg.jpg') no-repeat center center;
                     background-size: 110%;
                     padding: 4rem 2%;
                     text-align: center;
